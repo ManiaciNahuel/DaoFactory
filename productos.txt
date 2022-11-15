@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "articulo": "Lapicera",
+    "descripcion": "Color azul",
+    "stock": "3000"
+  },
+  {
+    "id": 1,
+    "articulo": "Lapicera",
+    "descripcion": "Color azul",
+    "stock": "3000"
+  },
+  {
+    "id": 1,
+    "articulo": "Lapicera",
+    "descripcion": "Color azul",
+    "stock": "3000"
+  }
+]
